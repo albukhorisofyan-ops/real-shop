@@ -272,6 +272,8 @@ nav ul :hover{
     .container{
         background-size: contain;
         flex-direction: column;
+        height: auto;
+        background-size: cover
     }
 
     .container h2{
@@ -284,4 +286,5 @@ nav ul :hover{
         padding-top: 0px;
         padding-left: 550px;
     }
+
 }
