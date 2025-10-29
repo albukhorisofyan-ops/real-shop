@@ -288,3 +288,20 @@ nav ul :hover{
     }
 
 }
+
+@media(max-width: 480px){
+    .text-hero{
+    font-size: 30px;
+    }
+    .gris{
+    width: 300px;
+    }
+
+    .container p{
+        line-height: 30px;
+        font-size: 15px;
+        padding-top: 0px;
+        padding-left: 300px;
+    }
+
+}
