@@ -290,7 +290,7 @@ nav ul :hover{
 }
 
 @media(max-width: 480px){
-    .text-hero{
+    .text-hero h2, .text-hero h3{
     font-size: 30px;
     }
     .gris{
